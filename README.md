@@ -20,7 +20,7 @@
 </p>
 
 <!-- Typing intro -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=FF6EC7&center=true&vCenter=true&width=820&lines=AI+%26+Full-Stack+Developer;Turning+Ideas+into+Impactful+Technology;Designing+for+Humans,+Building+for+Scalability;Always+Learning,+Always+Shipping+🚀" alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=FF6EC7&center=true&vCenter=true&width=820&lines=Turning+ideas+into+impactful+products.;Lover+of+clean+code,+AI,+and+creative+systems.;Always+learning,+building,+and+iterating.💡" alt="Typing intro" />
 
 </div>
 
