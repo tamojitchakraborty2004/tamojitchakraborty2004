@@ -1,11 +1,25 @@
 <!-- ✨ Tamojit Chakraborty | AI & Full-Stack Developer ✨ -->
 
 <div align="center">
-  
-# 👋 Hey, I'm **Tamojit Chakraborty**  
+
+# 👋 Hey, I'm **Tamojit Chakraborty**
 ### _AI & Full-Stack Developer | Builder of Real-World Tech_
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00F5FF&center=true&vCenter=true&width=700&lines=Turning+ideas+into+impactful+products.;Lover+of+clean+code,+AI,+and+creative+systems.;Always+learning,+building,+and+iterating.💡" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00F5FF&center=true&vCenter=true&width=700&lines=Turning+ideas+into+impactful+products.;Lover+of+clean+code,+AI,+and+creative+systems.;Always+learning,+building,+and+iterating.💡" alt="Typing SVG"/>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/tamojit-chakraborty" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  &nbsp;
+  <a href="https://github.com/tamojitchakraborty2004" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  &nbsp;
+  <a href="mailto:ctamojit1@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/rhhhaegal" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+</p>
 
 </div>
 
@@ -33,7 +47,6 @@
 ---
 
 ### 🔭 Current Focus  
-(unchanged as requested)
 
 <table align="center">
   <tr>
@@ -58,13 +71,13 @@
 
 <div align="center">
 
-| 🚀 | Achievement |
+| ✨ | What I’ve Done |
 |:--:|:--|
-| 🧠 | Finalist — **Smart Bengal Hackathon 2025** for *KrishiVaani*, a voice-based AI for farmers |
-| 💡 | Built **RailMadad AI**, automating complaint analysis using image & text classification |
-| 🔧 | Developed a **Cable TV Management System** handling billing, complaints & customer data |
-| ☁️ | Led workshops as **Cloud Native Hooghly Captain**, mentoring peers in DevOps & Kubernetes |
-| 🏅 | Earned **Outstanding Grade** in AICTE–Google Android Developer Internship |
+| 🧠 | Finalist — **Smart Bengal Hackathon 2025** (*KrishiVaani: Voice AI for Farmers*) |
+| 💡 | Built **RailMadad AI**, automating railway complaint categorization |
+| ⚙️ | Developed **Cable TV Management System** — full-stack automation for cable operators |
+| ☁️ | Led **Cloud Native Hooghly** workshops on DevOps, Docker, and Kubernetes |
+| 🏅 | Earned **Outstanding** in AICTE–Google Android Developer Internship |
 
 </div>
 
@@ -88,24 +101,10 @@
 
 ---
 
-### 💬 Connect With Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/tamojit-chakraborty" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  &nbsp;
-  <a href="https://github.com/tamojitchakraborty2004" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  &nbsp;
-  <a href="mailto:ctamojit1@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-  &nbsp;
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-</p>
-
----
-
 ### ⚡ Fun Fact  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=I+build+AI+that+actually+helps+people.;And+yes,+I+still+break+things+to+learn+them.⚙️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=I+build+AI+that+actually+helps+people.;And+yes,+I+still+break+things+to+learn+them.⚙️" alt="Typing SVG" />
 </p>
 
 ---
