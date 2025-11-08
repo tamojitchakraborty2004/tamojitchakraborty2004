@@ -2,7 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ff6ec7,100:7353ea&text=Tamojit%20Chakraborty&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Developer%20%E2%80%A2%20Creating%20Impact%20Through%20Code&descSize=18&descAlignY=55&animation=twinkling"/>
+<h1 style="font-weight:800; font-size:42px;">
+  🌌 Tamojit Chakraborty
+</h1>
+
+<h3 style="color:#FF6EC7; font-weight:600; margin-top:-10px;">
+  AI & Full-Stack Developer · Builder of Real-World Tech
+</h3>
 
 
 <!-- Social links -->
