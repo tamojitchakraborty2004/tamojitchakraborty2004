@@ -2,33 +2,10 @@
 
 <div align="center">
 
-<!-- Inline gradient banner -->
-<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tamojit Chakraborty — AI & Full-Stack Developer">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%"  stop-color="#ff6ec7"/>
-      <stop offset="100%" stop-color="#7353ea"/>
-    </linearGradient>
-    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  <rect x="0" y="0" width="1200" height="220" fill="url(#g)"/>
-  <text x="50%" y="45%" text-anchor="middle"
-        font-family="Poppins, Inter, Segoe UI, Roboto, Arial, sans-serif"
-        font-size="44" font-weight="800" fill="#ffffff" filter="url(#softGlow)">
-    Tamojit Chakraborty
-  </text>
-  <text x="50%" y="70%" text-anchor="middle"
-        font-family="Inter, Segoe UI, Roboto, Arial, sans-serif"
-        font-size="20" font-weight="600" fill="#f5f7ff">
-    AI & Full-Stack Developer · Creating Impact Through Code
-  </text>
-</svg>
+# 👋 Hey, I'm **Tamojit Chakraborty**
+### _AI & Full-Stack Developer | Builder of Real-World Tech_
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00F5FF&center=true&vCenter=true&width=700&lines=Turning+ideas+into+impactful+products.;Lover+of+clean+code,+AI,+and+creative+systems.;Always+learning,+building,+and+iterating.💡" alt="Typing SVG"/>
 
 <!-- Social links -->
 <p>
