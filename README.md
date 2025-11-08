@@ -1,52 +1,52 @@
-<!-- ✨ Tamojit Chakraborty | AI & Full-Stack Developer ✨ -->
+<!-- 🌌 Tamojit Chakraborty | Aesthetic Developer README -->
 
 <div align="center">
 
-# 👋 Hey, I'm **Tamojit Chakraborty**
-### _AI & Full-Stack Developer | Builder of Real-World Tech_
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00F5FF,100:7A00FF&text=Tamojit%20Chakraborty&fontColor=FFFFFF&fontSize=45&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Developer%20|%20Turning%20Ideas%20into%20Impact&descSize=16&descAlignY=55" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00F5FF&center=true&vCenter=true&width=700&lines=Turning+ideas+into+impactful+products.;Lover+of+clean+code,+AI,+and+creative+systems.;Always+learning,+building,+and+iterating.💡" alt="Typing SVG"/>
+<br>
 
----
+<a href="https://linkedin.com/in/tamojit-chakraborty" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+&nbsp;
+<a href="https://github.com/tamojitchakraborty2004" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+&nbsp;
+<a href="mailto:ctamojit1@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+&nbsp;
+<a href="https://www.instagram.com/rhhhaegal" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
 
-### 🌐 Connect With Me
+<br><br>
 
-<p align="center">
-  <a href="https://linkedin.com/in/tamojit-chakraborty" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  &nbsp;
-  <a href="https://github.com/tamojitchakraborty2004" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  &nbsp;
-  <a href="mailto:ctamojit1@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-  &nbsp;
-  <a href="https://www.instagram.com/rhhhaegal" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=AI+%26+Full-Stack+Developer;Builder+of+Real-World+Tech;Turning+Complexity+into+Simplicity+💡;Always+Learning+|+Always+Shipping+🚀" />
 
 </div>
 
 ---
 
-### 🧭 About Me  
+## ✨ About Me  
 
-💻 I’m a **developer who loves building intelligent, meaningful systems** — products that solve real-world problems and look great doing it.  
-🚀 I’ve worked on **AI-driven platforms**, **web systems**, and **hackathon projects** that blend innovation with utility.  
-🌾 Creator of **KrishiVaani**, a voice-based AI helping rural farmers — and yes, that one’s close to my heart.  
-🎯 My philosophy: *Learn deeply. Build boldly. Ship fast.*  
+> “Crafting digital experiences that connect people, solve problems, and feel effortless.”
+
+👨‍💻 I’m a **developer passionate about building meaningful, intelligent systems** that make tech approachable and human.  
+🧠 My journey blends **AI**, **cloud**, and **full-stack engineering** — with a sharp focus on usability and design.  
+🌾 Creator of **KrishiVaani**, a voice-based AI that empowers rural farmers with instant solutions.  
+🏆 Hackathon finalist multiple times for building **impact-first prototypes** that actually work.  
+💬 I believe in *clarity, execution, and curiosity* — code is my way to express creativity.  
 
 ---
 
-### ⚙️ Tech Stack  
+## ⚙️ Tech Stack  
 
 <div align="center">
 
-| Languages | Frontend | Backend | Tools & Cloud | Databases |
+| 💻 Languages | 🎨 Frontend | 🔧 Backend | ☁️ Tools & Cloud | 🗄 Databases |
 |:--:|:--:|:--:|:--:|:--:|
-| ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) | ![React](https://skillicons.dev/icons?i=react) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Flask](https://skillicons.dev/icons?i=flask) ![Express](https://skillicons.dev/icons?i=express) | ![Docker](https://skillicons.dev/icons?i=docker) ![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) |
+| ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) | ![React](https://skillicons.dev/icons?i=react) ![Nextjs](https://skillicons.dev/icons?i=nextjs) ![Tailwind](https://skillicons.dev/icons?i=tailwind) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Flask](https://skillicons.dev/icons?i=flask) ![Express](https://skillicons.dev/icons?i=express) | ![Docker](https://skillicons.dev/icons?i=docker) ![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) |
 
 </div>
 
 ---
 
-### 🔭 Current Focus  
+## 🔭 Current Focus  
 
 <table align="center">
   <tr>
@@ -67,52 +67,50 @@
 
 ---
 
-### 🌟 Highlights  
+## 🌟 Highlights  
 
 <div align="center">
 
-| ✨ | What I’ve Done |
+| 🚀 | Highlights |
 |:--:|:--|
-| 🧠 | Finalist — **Smart Bengal Hackathon 2025** (*KrishiVaani: Voice AI for Farmers*) |
-| 💡 | Built **RailMadad AI**, automating railway complaint categorization |
-| ⚙️ | Developed **Cable TV Management System** — full-stack automation for cable operators |
-| ☁️ | Led **Cloud Native Hooghly** workshops on DevOps, Docker, and Kubernetes |
-| 🏅 | Earned **Outstanding** in AICTE–Google Android Developer Internship |
+| 🧠 | **Smart Bengal Hackathon 2025 Finalist** – Built *KrishiVaani*, a voice-based AI for rural farmers |
+| ⚙️ | Developed **RailMadad AI**, automating complaint classification via NLP & image processing |
+| 💡 | Created **Cable TV Management System**, managing billing, customers & automation |
+| ☁️ | Led workshops on **Docker, CI/CD & Kubernetes** as part of Cloud Native Hooghly |
+| 🏅 | Achieved **Outstanding Grade** in the AICTE–Google Android Developer Internship |
 
 </div>
 
 ---
 
-### 📊 GitHub Insights  
+## 📊 GitHub Insights  
 
 <div align="center">
   
 <a href="https://github.com/tamojitchakraborty2004">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamojitchakraborty2004&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tamojitchakraborty2004&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150"/>
 </a>
 <a href="https://github.com/tamojitchakraborty2004">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamojitchakraborty2004&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamojitchakraborty2004&theme=radical&hide_border=true" height="150"/>
 </a>
 <a href="https://github.com/tamojitchakraborty2004">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamojitchakraborty2004&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamojitchakraborty2004&layout=compact&theme=radical&hide_border=true" height="150"/>
 </a>
 
 </div>
 
 ---
 
-### ⚡ Fun Fact  
+## ⚡ Fun Fact  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=I+build+AI+that+actually+helps+people.;And+yes,+I+still+break+things+to+learn+them.⚙️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7A00FF&center=true&vCenter=true&width=600&lines=I+turn+late-night+ideas+into+working+apps.;I+debug+in+my+dreams+and+wake+up+with+solutions.;Creativity+%2B+Logic+%3D+My+Favorite+Equation.⚡" alt="Typing SVG" />
 </p>
 
 ---
 
 <div align="center">
-  
-🧩 *"Keep it simple. Make it powerful. Build with intent."*  
-<br>
-💡 _Always open to collaborations, hackathons, and ideas that push limits._  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7A00FF,100:00F5FF&animation=twinkling" />
 
 </div>
