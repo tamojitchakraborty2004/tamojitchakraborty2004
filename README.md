@@ -10,7 +10,6 @@
   AI & Full-Stack Developer · Builder of Real-World Tech
 </h3>
 
-
 <!-- Social links -->
 <p>
   <a href="https://linkedin.com/in/tamojit-chakraborty"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -28,13 +27,48 @@
 
 ## 💫 About Me  
 
-> “I build technology that looks good, works great, and actually matters.”
+<div align="center">
+  
+💡 <b><i>“I build technology that looks good, works great, and truly makes a difference.”</i></b>
 
-👨‍💻 I’m a **developer who loves creating intelligent, human-centered products** that solve real problems.  
-🧠 My focus is blending **AI, full-stack development, and design thinking** into scalable, useful systems.  
-🌾 Creator of **KrishiVaani**, a voice-based AI empowering rural farmers with instant solutions.  
-🏆 Finalist at **Smart Bengal Hackathon** and **Geekathon 2025**, for real-world impact projects.  
-🎯 My mantra: *Build with clarity, code with purpose, and never stop learning.*  
+</div>
+
+<br>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      
+🌌 <b>Who I Am</b><br>
+I’m a <b>developer</b> passionate about crafting <b>intelligent, human-centered systems</b> — tech that solves problems, not just looks smart.  
+I love connecting logic and creativity to make software feel effortless.  
+
+<br>
+
+⚙️ <b>What I Do</b><br>
+I blend <b>AI</b>, <b>full-stack development</b>, and <b>design thinking</b> into scalable products that deliver real-world impact.  
+From user experience to deployment — I enjoy shaping the whole lifecycle.
+
+    </td>
+    <td width="50%" valign="top">
+
+🌾 <b>What I’ve Built</b><br>
+<b>KrishiVaani</b> — a voice-based AI empowering rural farmers with instant agricultural help.  
+Also built <b>RailMadad AI</b> for smart complaint classification and an <b>Online Cable System</b> for service automation.
+
+<br>
+
+🏆 <b>What Drives Me</b><br>
+Finalist at <b>Smart Bengal Hackathon</b> and <b>Geekathon 2025</b> for impactful innovation.  
+My mantra — <i>“Build with clarity, code with purpose, and never stop learning.”</i>
+
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -109,7 +143,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=22&pause=1000&duration=2300&color=FF6EC7&center=true&vCenter=true&width=700&lines=I+build+AI+that+makes+life+easier+🤖;Every+project+starts+with+'What+if...?'+💭;I+turn+coffee,+curiosity,+and+chaos+into+code+☕" alt="Fun Fact Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=22&pause=1000&duration=2300&color=FF6EC7&center=true&vCenter=true&width=700&lines=I+build+AI+that+makes+life+easier+🤖;Every+idea+starts+with+'What+if...?'+💭;I+turn+coffee,+curiosity+%26+chaos+into+code+☕;And+yes,+I+debug+in+my+dreams+too+💤" alt="Fun Fact Typing SVG"/>
 
 </div>
 
