@@ -24,12 +24,11 @@
 </div>
 
 ---
-
 ## 💫 About Me  
 
 <div align="center">
-  
-💡 <b><i>“I build technology that looks good, works great, and truly makes a difference.”</i></b>
+
+💡 <b><i>“I build technology that looks good, works great, and actually matters.”</i></b>
 
 </div>
 
@@ -39,38 +38,22 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      
-🌌 <b>Who I Am</b><br>
-I’m a <b>developer</b> passionate about crafting <b>intelligent, human-centered systems</b> — tech that solves problems, not just looks smart.  
-I love connecting logic and creativity to make software feel effortless.  
+    <td width="100%" align="left" style="border: 2px solid #FF6EC7; border-radius: 10px; padding: 20px; background-color: #0D1117; color: #FFFFFF;">
 
-<br>
+<p>
+👨‍💻 I’m a <b>developer who loves creating intelligent, human-centered products</b> that solve real problems.  
+🧠 My focus is blending <b>AI, full-stack development, and design thinking</b> into scalable, useful systems.  
+🌾 Creator of <b>KrishiVaani</b>, a voice-based AI empowering rural farmers with instant solutions.  
+🏆 Finalist at <b>Smart Bengal Hackathon</b> and <b>Geekathon 2025</b>, for real-world impact projects.  
+🎯 My mantra: <i>Build with clarity, code with purpose, and never stop learning.</i>  
+</p>
 
-⚙️ <b>What I Do</b><br>
-I blend <b>AI</b>, <b>full-stack development</b>, and <b>design thinking</b> into scalable products that deliver real-world impact.  
-From user experience to deployment — I enjoy shaping the whole lifecycle.
-
-    </td>
-    <td width="50%" valign="top">
-
-🌾 <b>What I’ve Built</b><br>
-<b>KrishiVaani</b> — a voice-based AI empowering rural farmers with instant agricultural help.  
-Also built <b>RailMadad AI</b> for smart complaint classification and an <b>Online Cable System</b> for service automation.
-
-<br>
-
-🏆 <b>What Drives Me</b><br>
-Finalist at <b>Smart Bengal Hackathon</b> and <b>Geekathon 2025</b> for impactful innovation.  
-My mantra — <i>“Build with clarity, code with purpose, and never stop learning.”</i>
-
-    </td>
+</td>
   </tr>
 </table>
 
 </div>
 
----
 
 ## ⚙️ Tech Stack  
 
