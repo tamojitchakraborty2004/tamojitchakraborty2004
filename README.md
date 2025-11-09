@@ -24,36 +24,36 @@
 </div>
 
 ---
+
 ## 💫 About Me  
 
 <div align="center">
 
-💡 <b><i>“I build technology that looks good, works great, and actually matters.”</i></b>
+<img src="https://github.com/tamojitchakraborty2004/assets/creative-wave.gif" width="100%" height="5px">
 
-</div>
+<div style="background: linear-gradient(135deg, #1e1e2f 0%, #2c1a3a 100%); border-radius: 16px; padding: 25px; box-shadow: 0 0 12px rgba(255, 110, 199, 0.2); width: 90%;">
+
+<p align="center">
+  <i>“I build technology that looks good, works great, and actually matters.”</i>
+</p>
 
 <br>
 
-<div align="center">
-
-<table>
-  <tr>
-    <td width="100%" align="left" style="border: 2px solid #FF6EC7; border-radius: 10px; padding: 20px; background-color: #0D1117; color: #FFFFFF;">
-
-<p>
-👨‍💻 I’m a <b>developer who loves creating intelligent, human-centered products</b> that solve real problems.  
-🧠 My focus is blending <b>AI, full-stack development, and design thinking</b> into scalable, useful systems.  
-🌾 Creator of <b>KrishiVaani</b>, a voice-based AI empowering rural farmers with instant solutions.  
-🏆 Finalist at <b>Smart Bengal Hackathon</b> and <b>Geekathon 2025</b>, for real-world impact projects.  
-🎯 My mantra: <i>Build with clarity, code with purpose, and never stop learning.</i>  
+<p align="left" style="font-size:16px; line-height:1.7;">
+👨‍💻 I’m a <b>developer who loves creating intelligent, human-centered products</b> that solve real problems. <br>
+🧠 My focus is blending <b>AI, full-stack development, and design thinking</b> into scalable, useful systems. <br>
+🌾 Creator of <b>KrishiVaani</b>, a voice-based AI empowering rural farmers with instant solutions. <br>
+🏆 Finalist at <b>Smart Bengal Hackathon</b> and <b>Geekathon 2025</b>, for real-world impact projects. <br>
+🎯 My mantra: <i>Build with clarity, code with purpose, and never stop learning.</i>
 </p>
-
-</td>
-  </tr>
-</table>
 
 </div>
 
+<img src="https://github.com/tamojitchakraborty2004/assets/creative-wave.gif" width="100%" height="5px">
+
+</div>
+
+---
 
 ## ⚙️ Tech Stack  
 
@@ -95,7 +95,7 @@
 | ✨ | Achievement |
 |:--:|:--|
 | 🧠 | Finalist — **Smart Bengal Hackathon 2025** (*KrishiVaani: Voice AI for Farmers*) |
-| 💡 | Built **RailMadad AI**, automating complaint analysis via NLP & image recognition |
+| 💹 | Built **Stock Market Prediction System**, predicting stock trends using ML models |
 | ⚙️ | Developed **Cable TV Management System**, automating operations for local providers |
 | ☁️ | Led **Cloud Native Hooghly** workshops on Docker, CI/CD & Kubernetes |
 | 🏅 | Earned **Outstanding** grade in AICTE–Google Android Developer Internship |
